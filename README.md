@@ -1,4 +1,6 @@
 # Scrape TMDB to WP
+## Description
+Uploads movies/tv shows with info taken from IMDB and TMDB to wordpress sites. Reads from file which movies must be uploaded, get info from IMDB, TMDB, makes translation to required languages via Yandex translater and saves which movies were processed to csv file representing database.
 
 ## Dependencies
 ```
