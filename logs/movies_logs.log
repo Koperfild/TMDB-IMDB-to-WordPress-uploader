@@ -1,0 +1,922 @@
+2019-10-22 16:34:17 [fetch_movies.py:93] Using just URL option.
+2019-10-22 16:35:33 [fetch_movies.py:93] Using just URL option.
+2019-10-22 16:36:12 [db.py:183] Episode                                                                Already on all wp sites
+2019-10-22 16:36:12 [db.py:185] About Ray 2015                                                         -
+2019-10-22 16:36:12 [db.py:185] Almost Christmas 2016                                                  +
+2019-10-22 16:36:12 [db.py:185] Billionaire Ransom 2016                                                +
+2019-10-22 16:36:12 [db.py:185] Boo! A Madea Halloween 2016                                            +
+2019-10-22 16:36:12 [db.py:185] Closet Monster 2015                                                    -
+2019-10-22 16:36:12 [db.py:185] Come And Find Me 2016                                                  +
+2019-10-22 16:36:12 [db.py:185] Gernika 2016                                                           +
+2019-10-22 16:36:12 [db.py:185] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-22 16:36:12 [db.py:185] Jack Reacher Never Go Back 2016                                        +
+2019-10-22 16:36:12 [db.py:185] Justice League Dark 2017                                               +
+2019-10-22 16:36:12 [db.py:185] Los Jefes 2015                                                         +
+2019-10-22 16:36:12 [db.py:185] Maigret's Dead Man 2016                                                +
+2019-10-22 16:36:12 [db.py:185] Masterminds 2016                                                       +
+2019-10-22 16:36:12 [db.py:185] Operation Avalanche 2016                                               +
+2019-10-22 16:36:12 [db.py:185] Queen Of Katwe 2016                                                    +
+2019-10-22 16:36:12 [db.py:185] The Girl With All The Gifts 2016                                       +
+2019-10-22 16:36:12 [db.py:185] The Hollow Point 2016                                                  +
+2019-10-22 16:36:12 [db.py:185] The Monster 2016                                                       +
+2019-10-22 16:36:12 [db.py:185] Trolls 2016                                                            +
+2019-10-22 16:36:13 [api.py:319] Info scraped:Closet Monster 2015
+2019-10-22 16:36:13 [api.py:319] Info scraped:About Ray 2015
+2019-10-22 16:39:01 [fetch_movies.py:93] Using just URL option.
+2019-10-22 16:39:10 [db.py:183] Episode                                                                Already on all wp sites
+2019-10-22 16:39:10 [db.py:185] About Ray 2015                                                         -
+2019-10-22 16:39:10 [db.py:185] Almost Christmas 2016                                                  +
+2019-10-22 16:39:10 [db.py:185] Billionaire Ransom 2016                                                +
+2019-10-22 16:39:10 [db.py:185] Boo! A Madea Halloween 2016                                            +
+2019-10-22 16:39:10 [db.py:185] Closet Monster 2015                                                    -
+2019-10-22 16:39:10 [db.py:185] Come And Find Me 2016                                                  +
+2019-10-22 16:39:10 [db.py:185] Gernika 2016                                                           +
+2019-10-22 16:39:10 [db.py:185] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-22 16:39:10 [db.py:185] Jack Reacher Never Go Back 2016                                        +
+2019-10-22 16:39:10 [db.py:185] Justice League Dark 2017                                               +
+2019-10-22 16:39:10 [db.py:185] Los Jefes 2015                                                         +
+2019-10-22 16:39:10 [db.py:185] Maigret's Dead Man 2016                                                +
+2019-10-22 16:39:10 [db.py:185] Masterminds 2016                                                       +
+2019-10-22 16:39:10 [db.py:185] Operation Avalanche 2016                                               +
+2019-10-22 16:39:10 [db.py:185] Queen Of Katwe 2016                                                    +
+2019-10-22 16:39:10 [db.py:185] The Girl With All The Gifts 2016                                       +
+2019-10-22 16:39:10 [db.py:185] The Hollow Point 2016                                                  +
+2019-10-22 16:39:10 [db.py:185] The Monster 2016                                                       +
+2019-10-22 16:39:10 [db.py:185] Trolls 2016                                                            +
+2019-10-22 16:39:11 [api.py:320] Info scraped:About Ray 2015
+2019-10-22 16:39:11 [api.py:320] Info scraped:Closet Monster 2015
+2019-10-22 16:47:24 [fetch_movies.py:93] Using just URL option.
+2019-10-22 16:47:32 [db.py:183] Episode                                                                Already on all wp sites
+2019-10-22 16:47:32 [db.py:185] About Ray 2015                                                         -
+2019-10-22 16:47:32 [db.py:185] Almost Christmas 2016                                                  +
+2019-10-22 16:47:32 [db.py:185] Billionaire Ransom 2016                                                +
+2019-10-22 16:47:32 [db.py:185] Boo! A Madea Halloween 2016                                            +
+2019-10-22 16:47:32 [db.py:185] Closet Monster 2015                                                    -
+2019-10-22 16:47:32 [db.py:185] Come And Find Me 2016                                                  +
+2019-10-22 16:47:32 [db.py:185] Gernika 2016                                                           +
+2019-10-22 16:47:32 [db.py:185] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-22 16:47:32 [db.py:185] Jack Reacher Never Go Back 2016                                        +
+2019-10-22 16:47:32 [db.py:185] Justice League Dark 2017                                               +
+2019-10-22 16:47:32 [db.py:185] Los Jefes 2015                                                         +
+2019-10-22 16:47:32 [db.py:185] Maigret's Dead Man 2016                                                +
+2019-10-22 16:47:32 [db.py:185] Masterminds 2016                                                       +
+2019-10-22 16:47:32 [db.py:185] Operation Avalanche 2016                                               +
+2019-10-22 16:47:32 [db.py:185] Queen Of Katwe 2016                                                    +
+2019-10-22 16:47:32 [db.py:185] The Girl With All The Gifts 2016                                       +
+2019-10-22 16:47:32 [db.py:185] The Hollow Point 2016                                                  +
+2019-10-22 16:47:32 [db.py:185] The Monster 2016                                                       +
+2019-10-22 16:47:32 [db.py:185] Trolls 2016                                                            +
+2019-10-22 16:47:33 [api.py:320] Info scraped:Closet Monster 2015
+2019-10-22 16:47:33 [api.py:320] Info scraped:About Ray 2015
+2019-10-22 17:19:42 [fetch_movies.py:93] Using just URL option.
+2019-10-22 17:33:33 [fetch_movies.py:93] Using just URL option.
+2019-10-22 17:38:12 [fetch_movies.py:93] Using just URL option.
+2019-10-22 17:44:36 [fetch_movies.py:93] Using just URL option.
+2019-10-22 17:48:09 [fetch_movies.py:93] Using just URL option.
+2019-10-22 17:51:01 [db.py:183] Episode                                                                Already on all wp sites
+2019-10-22 17:51:01 [db.py:185] About Ray 2015                                                         -
+2019-10-22 17:51:01 [db.py:185] Almost Christmas 2016                                                  -
+2019-10-22 17:51:01 [db.py:185] Billionaire Ransom 2016                                                -
+2019-10-22 17:51:01 [db.py:185] Boo! A Madea Halloween 2016                                            -
+2019-10-22 17:51:01 [db.py:185] Closet Monster 2015                                                    -
+2019-10-22 17:51:01 [db.py:185] Come And Find Me 2016                                                  -
+2019-10-22 17:51:01 [db.py:185] Gernika 2016                                                           -
+2019-10-22 17:51:01 [db.py:185] Howard Lovecraft & The Frozen Kingdom 2016                             -
+2019-10-22 17:51:01 [db.py:185] Jack Reacher Never Go Back 2016                                        -
+2019-10-22 17:51:01 [db.py:185] Justice League Dark 2017                                               -
+2019-10-22 17:51:01 [db.py:185] Los Jefes 2015                                                         -
+2019-10-22 17:51:01 [db.py:185] Maigret's Dead Man 2016                                                -
+2019-10-22 17:51:01 [db.py:185] Masterminds 2016                                                       -
+2019-10-22 17:51:01 [db.py:185] Operation Avalanche 2016                                               -
+2019-10-22 17:51:01 [db.py:185] Queen Of Katwe 2016                                                    -
+2019-10-22 17:51:01 [db.py:185] The Girl With All The Gifts 2016                                       -
+2019-10-22 17:51:01 [db.py:185] The Hollow Point 2016                                                  +
+2019-10-22 17:51:01 [db.py:185] The Monster 2016                                                       +
+2019-10-22 17:51:01 [db.py:185] Trolls 2016                                                            +
+2019-10-22 17:51:39 [api.py:320] Info scraped:Operation Avalanche 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:Maigret's Dead Man 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:The Girl With All The Gifts 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:Almost Christmas 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:Los Jefes 2015
+2019-10-22 17:51:39 [api.py:320] Info scraped:Justice League Dark 2017
+2019-10-22 17:51:39 [api.py:320] Info scraped:Jack Reacher Never Go Back 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:Howard Lovecraft & The Frozen Kingdom 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:About Ray 2015
+2019-10-22 17:51:39 [api.py:320] Info scraped:Billionaire Ransom 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:Masterminds 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:Come And Find Me 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:Closet Monster 2015
+2019-10-22 17:51:39 [api.py:320] Info scraped:Gernika 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:Boo! A Madea Halloween 2016
+2019-10-22 17:51:39 [api.py:320] Info scraped:Queen Of Katwe 2016
+2019-10-22 17:55:56 [wp.py:98] Downloading image for Almost Christmas...
+2019-10-22 17:56:47 [fetch_movies.py:93] Using just URL option.
+2019-10-22 17:56:51 [db.py:183] Episode                                                                Already on all wp sites
+2019-10-22 17:56:51 [db.py:185] About Ray 2015                                                         -
+2019-10-22 17:56:51 [db.py:185] Almost Christmas 2016                                                  -
+2019-10-22 17:56:51 [db.py:185] Billionaire Ransom 2016                                                -
+2019-10-22 17:56:51 [db.py:185] Boo! A Madea Halloween 2016                                            -
+2019-10-22 17:56:51 [db.py:185] Closet Monster 2015                                                    -
+2019-10-22 17:56:51 [db.py:185] Come And Find Me 2016                                                  -
+2019-10-22 17:56:51 [db.py:185] Gernika 2016                                                           -
+2019-10-22 17:56:51 [db.py:185] Howard Lovecraft & The Frozen Kingdom 2016                             -
+2019-10-22 17:56:51 [db.py:185] Jack Reacher Never Go Back 2016                                        -
+2019-10-22 17:56:51 [db.py:185] Justice League Dark 2017                                               -
+2019-10-22 17:56:51 [db.py:185] Los Jefes 2015                                                         -
+2019-10-22 17:56:51 [db.py:185] Maigret's Dead Man 2016                                                -
+2019-10-22 17:56:51 [db.py:185] Masterminds 2016                                                       -
+2019-10-22 17:56:51 [db.py:185] Operation Avalanche 2016                                               -
+2019-10-22 17:56:51 [db.py:185] Queen Of Katwe 2016                                                    -
+2019-10-22 17:56:51 [db.py:185] The Girl With All The Gifts 2016                                       -
+2019-10-22 17:56:51 [db.py:185] The Hollow Point 2016                                                  +
+2019-10-22 17:56:51 [db.py:185] The Monster 2016                                                       +
+2019-10-22 17:56:51 [db.py:185] Trolls 2016                                                            +
+2019-10-22 17:56:52 [api.py:320] Info scraped:Almost Christmas 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:About Ray 2015
+2019-10-22 17:56:52 [api.py:320] Info scraped:Billionaire Ransom 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:Boo! A Madea Halloween 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:Closet Monster 2015
+2019-10-22 17:56:52 [api.py:320] Info scraped:Howard Lovecraft & The Frozen Kingdom 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:Justice League Dark 2017
+2019-10-22 17:56:52 [api.py:320] Info scraped:Jack Reacher Never Go Back 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:Gernika 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:Los Jefes 2015
+2019-10-22 17:56:52 [api.py:320] Info scraped:Come And Find Me 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:Maigret's Dead Man 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:Masterminds 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:Queen Of Katwe 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:Operation Avalanche 2016
+2019-10-22 17:56:52 [api.py:320] Info scraped:The Girl With All The Gifts 2016
+2019-10-22 17:59:04 [wp.py:98] Downloading image for Almost Christmas...
+2019-10-22 17:59:04 [wp.py:98] Downloading image for Take Down...
+2019-10-22 17:59:05 [wp.py:98] Downloading image for Boo! A Madea Halloween...
+2019-10-22 17:59:05 [wp.py:98] Downloading image for Closet Monster...
+2019-10-22 17:59:05 [wp.py:98] Downloading image for Come and Find Me...
+2019-10-22 17:59:06 [wp.py:98] Downloading image for Guernica...
+2019-10-22 17:59:06 [wp.py:98] Downloading image for Howard Lovecraft & the Frozen Kingdom...
+2019-10-22 17:59:07 [wp.py:98] Downloading image for Jack Reacher: Never Go Back...
+2019-10-22 17:59:07 [wp.py:98] Downloading image for Justice League Dark...
+2019-10-22 17:59:08 [wp.py:98] Downloading image for Los jefes...
+2019-10-22 17:59:08 [wp.py:98] Downloading image for Maigret's Dead Man...
+2019-10-22 17:59:08 [wp.py:98] Downloading image for Masterminds...
+2019-10-22 17:59:09 [wp.py:98] Downloading image for Operation Avalanche...
+2019-10-22 17:59:09 [wp.py:98] Downloading image for Queen of Katwe...
+2019-10-22 17:59:10 [wp.py:98] Downloading image for The Girl with All the Gifts...
+2019-10-22 17:59:33 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Almost Christmas.jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:33 [wp.py:424] Publishing to https://rockers.imgblue.com/xmlrpc.php: Almost Christmas ...
+2019-10-22 17:59:36 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Boo! A Madea Halloween.jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:36 [wp.py:424] Publishing to https://rockers.imgblue.com/xmlrpc.php: Boo! A Madea Halloween ...
+2019-10-22 17:59:36 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Closet Monster.jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:36 [wp.py:424] Publishing to https://rockers.imgblue.com/xmlrpc.php: Closet Monster ...
+2019-10-22 17:59:37 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Take Down.jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:37 [wp.py:424] Publishing to https://rockers.imgblue.com/xmlrpc.php: Take Down ...
+2019-10-22 17:59:38 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Come and Find Me.jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:38 [wp.py:424] Publishing to https://rockers.imgblue.com/xmlrpc.php: Come and Find Me ...
+2019-10-22 17:59:45 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Los jefes.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:45 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: Los jefes ...
+2019-10-22 17:59:45 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Guernica.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:45 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: Guernica ...
+2019-10-22 17:59:47 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Howard Lovecraft & the Frozen Kingdom.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:47 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: Howard Lovecraft & the Frozen Kingdom ...
+2019-10-22 17:59:50 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Maigret's Dead Man.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:50 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: Maigret's Dead Man ...
+2019-10-22 17:59:51 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Justice League Dark.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:51 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: Justice League Dark ...
+2019-10-22 17:59:54 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Jack Reacher  Never Go Back.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:54 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: Jack Reacher: Never Go Back ...
+2019-10-22 17:59:58 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Operation Avalanche.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:58 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: Operation Avalanche ...
+2019-10-22 17:59:58 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Queen of Katwe.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 17:59:58 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: Queen of Katwe ...
+2019-10-22 18:00:07 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\The Girl with All the Gifts.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 18:00:07 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: The Girl with All the Gifts ...
+2019-10-22 18:00:10 [wp.py:407] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Masterminds.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-22 18:00:10 [wp.py:424] Publishing to https://tamil.imgblue.com/xmlrpc.php: Masterminds ...
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: Maigret's Dead Man
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: Los jefes
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: The Girl with All the Gifts
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: Queen of Katwe
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: Justice League Dark
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: Masterminds
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: Operation Avalanche
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: Howard Lovecraft & the Frozen Kingdom
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: Jack Reacher: Never Go Back
+2019-10-22 18:06:14 [wp.py:432] Published to https://rockers.imgblue.com/xmlrpc.php: Almost Christmas
+2019-10-22 18:06:14 [wp.py:432] Published to https://tamil.imgblue.com/xmlrpc.php: Guernica
+2019-10-22 18:06:14 [wp.py:432] Published to https://rockers.imgblue.com/xmlrpc.php: Come and Find Me
+2019-10-22 18:06:14 [wp.py:432] Published to https://rockers.imgblue.com/xmlrpc.php: Boo! A Madea Halloween
+2019-10-22 18:06:14 [wp.py:432] Published to https://rockers.imgblue.com/xmlrpc.php: Closet Monster
+2019-10-22 18:06:14 [wp.py:432] Published to https://rockers.imgblue.com/xmlrpc.php: Take Down
+2019-10-22 18:15:19 [db.py:108] [Errno 13] Permission denied: 'movies.csv'
+2019-10-22 18:15:19 [db.py:109] I/O error(13): Permission denied
+2019-10-22 18:15:49 [db.py:105] Uploaded episodes successfully saved to movies.csv
+2019-10-29 11:39:39 [fetch_movies.py:93] Using just URL option.
+2019-10-29 11:40:03 [fetch_movies.py:93] Using just URL option.
+2019-10-29 11:40:56 [fetch_movies.py:93] Using just URL option.
+2019-10-29 12:19:33 [fetch_movies.py:93] Using just URL option.
+2019-10-29 12:23:02 [fetch_movies.py:93] Using just URL option.
+2019-10-29 12:24:33 [fetch_movies.py:93] Using just URL option.
+2019-10-29 12:27:10 [db.py:36] jjj
+2019-10-29 12:29:44 [fetch_movies.py:93] Using just URL option.
+2019-10-29 12:35:11 [db.py:36] jjj
+2019-10-29 12:35:46 [fetch_movies.py:93] Using just URL option.
+2019-10-29 12:42:19 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 12:42:19 [db.py:197] About Ray 2015                                                         -
+2019-10-29 12:42:19 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 12:42:19 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 12:42:19 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 12:42:19 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 12:42:19 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 12:42:19 [db.py:197] Gernika 2016                                                           +
+2019-10-29 12:42:19 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 12:42:19 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 12:42:19 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 12:42:19 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 12:42:19 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 12:42:19 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 12:42:19 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 12:42:19 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 12:42:19 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 12:42:19 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 12:42:19 [db.py:197] The Monster 2016                                                       +
+2019-10-29 12:42:19 [db.py:197] Trolls 2016                                                            +
+2019-10-29 12:42:41 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 12:42:41 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 12:47:20 [fetch_movies.py:93] Using just URL option.
+2019-10-29 12:47:22 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 12:47:22 [db.py:197] About Ray 2015                                                         -
+2019-10-29 12:47:22 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 12:47:22 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 12:47:22 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 12:47:22 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 12:47:22 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 12:47:22 [db.py:197] Gernika 2016                                                           +
+2019-10-29 12:47:22 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 12:47:22 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 12:47:22 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 12:47:22 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 12:47:22 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 12:47:22 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 12:47:22 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 12:47:22 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 12:47:22 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 12:47:22 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 12:47:22 [db.py:197] The Monster 2016                                                       +
+2019-10-29 12:47:22 [db.py:197] Trolls 2016                                                            +
+2019-10-29 12:47:23 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 12:47:23 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 12:47:23 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 12:49:04 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 12:54:30 [fetch_movies.py:93] Using just URL option.
+2019-10-29 12:54:34 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 12:54:34 [db.py:197] About Ray 2015                                                         -
+2019-10-29 12:54:34 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 12:54:34 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 12:54:34 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 12:54:34 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 12:54:34 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 12:54:34 [db.py:197] Gernika 2016                                                           +
+2019-10-29 12:54:34 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 12:54:34 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 12:54:34 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 12:54:34 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 12:54:34 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 12:54:34 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 12:54:34 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 12:54:34 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 12:54:34 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 12:54:34 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 12:54:34 [db.py:197] The Monster 2016                                                       +
+2019-10-29 12:54:34 [db.py:197] Trolls 2016                                                            +
+2019-10-29 12:54:35 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 12:54:35 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 12:54:35 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 12:54:35 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 12:57:26 [wp.py:101] Downloading image for 3 Generations...
+2019-10-29 12:57:26 [wp.py:101] Downloading image for Almost Christmas...
+2019-10-29 12:57:27 [wp.py:101] Downloading image for Take Down...
+2019-10-29 12:57:46 [fetch_movies.py:93] Using just URL option.
+2019-10-29 12:57:51 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 12:57:51 [db.py:197] About Ray 2015                                                         -
+2019-10-29 12:57:51 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 12:57:51 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 12:57:51 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 12:57:51 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 12:57:51 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 12:57:51 [db.py:197] Gernika 2016                                                           +
+2019-10-29 12:57:51 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 12:57:51 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 12:57:51 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 12:57:51 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 12:57:51 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 12:57:51 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 12:57:51 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 12:57:51 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 12:57:51 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 12:57:51 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 12:57:51 [db.py:197] The Monster 2016                                                       +
+2019-10-29 12:57:51 [db.py:197] Trolls 2016                                                            +
+2019-10-29 12:57:52 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 12:57:52 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 12:57:52 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 12:57:52 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 13:25:24 [fetch_movies.py:93] Using just URL option.
+2019-10-29 13:25:26 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 13:25:26 [db.py:197] About Ray 2015                                                         -
+2019-10-29 13:25:26 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 13:25:26 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 13:25:26 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 13:25:26 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 13:25:26 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 13:25:26 [db.py:197] Gernika 2016                                                           +
+2019-10-29 13:25:26 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 13:25:26 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 13:25:26 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 13:25:26 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 13:25:26 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 13:25:26 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 13:25:26 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 13:25:26 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 13:25:26 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 13:25:26 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 13:25:26 [db.py:197] The Monster 2016                                                       +
+2019-10-29 13:25:26 [db.py:197] Trolls 2016                                                            +
+2019-10-29 15:26:44 [fetch_movies.py:94] Using just URL option.
+2019-10-29 15:32:23 [fetch_movies.py:94] Using just URL option.
+2019-10-29 15:32:29 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 15:32:29 [db.py:197] About Ray 2015                                                         -
+2019-10-29 15:32:29 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 15:32:29 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 15:32:29 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 15:32:29 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 15:32:29 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 15:32:29 [db.py:197] Gernika 2016                                                           +
+2019-10-29 15:32:29 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 15:32:29 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 15:32:29 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 15:32:29 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 15:32:29 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 15:32:29 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 15:32:29 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 15:32:29 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 15:32:29 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 15:32:29 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 15:32:29 [db.py:197] The Monster 2016                                                       +
+2019-10-29 15:32:29 [db.py:197] Trolls 2016                                                            +
+2019-10-29 15:32:38 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 15:32:38 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 15:32:38 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 15:32:38 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 15:33:29 [fetch_movies.py:94] Using just URL option.
+2019-10-29 15:33:32 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 15:33:32 [db.py:197] About Ray 2015                                                         -
+2019-10-29 15:33:32 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 15:33:32 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 15:33:32 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 15:33:32 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 15:33:32 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 15:33:32 [db.py:197] Gernika 2016                                                           +
+2019-10-29 15:33:32 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 15:33:32 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 15:33:32 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 15:33:32 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 15:33:32 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 15:33:32 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 15:33:32 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 15:33:32 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 15:33:32 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 15:33:32 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 15:33:32 [db.py:197] The Monster 2016                                                       +
+2019-10-29 15:33:32 [db.py:197] Trolls 2016                                                            +
+2019-10-29 15:33:33 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 15:33:33 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 15:33:33 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 15:33:33 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 15:34:38 [fetch_movies.py:94] Using just URL option.
+2019-10-29 15:34:47 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 15:34:47 [db.py:197] About Ray 2015                                                         -
+2019-10-29 15:34:47 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 15:34:47 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 15:34:47 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 15:34:47 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 15:34:47 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 15:34:47 [db.py:197] Gernika 2016                                                           +
+2019-10-29 15:34:47 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 15:34:47 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 15:34:47 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 15:34:47 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 15:34:47 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 15:34:47 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 15:34:47 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 15:34:47 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 15:34:47 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 15:34:47 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 15:34:47 [db.py:197] The Monster 2016                                                       +
+2019-10-29 15:34:47 [db.py:197] Trolls 2016                                                            +
+2019-10-29 15:34:48 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 15:34:48 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 15:34:48 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 15:34:48 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 15:35:39 [fetch_movies.py:94] Using just URL option.
+2019-10-29 15:35:41 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 15:35:41 [db.py:197] About Ray 2015                                                         -
+2019-10-29 15:35:41 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 15:35:41 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 15:35:41 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 15:35:41 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 15:35:41 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 15:35:41 [db.py:197] Gernika 2016                                                           +
+2019-10-29 15:35:41 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 15:35:41 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 15:35:41 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 15:35:41 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 15:35:41 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 15:35:41 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 15:35:41 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 15:35:41 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 15:35:41 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 15:35:41 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 15:35:41 [db.py:197] The Monster 2016                                                       +
+2019-10-29 15:35:41 [db.py:197] Trolls 2016                                                            +
+2019-10-29 15:35:42 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 15:35:42 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 15:35:42 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 15:35:42 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 15:36:54 [fetch_movies.py:94] Using just URL option.
+2019-10-29 15:36:57 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 15:36:57 [db.py:197] About Ray 2015                                                         -
+2019-10-29 15:36:57 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 15:36:57 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 15:36:57 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 15:36:57 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 15:36:57 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 15:36:57 [db.py:197] Gernika 2016                                                           +
+2019-10-29 15:36:57 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 15:36:57 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 15:36:57 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 15:36:57 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 15:36:57 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 15:36:57 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 15:36:57 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 15:36:57 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 15:36:57 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 15:36:57 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 15:36:57 [db.py:197] The Monster 2016                                                       +
+2019-10-29 15:36:57 [db.py:197] Trolls 2016                                                            +
+2019-10-29 15:36:58 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 15:36:58 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 15:36:58 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 15:36:58 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 15:39:12 [fetch_movies.py:94] Using just URL option.
+2019-10-29 15:39:15 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 15:39:15 [db.py:197] About Ray 2015                                                         -
+2019-10-29 15:39:15 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 15:39:15 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 15:39:15 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 15:39:15 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 15:39:15 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 15:39:15 [db.py:197] Gernika 2016                                                           +
+2019-10-29 15:39:15 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 15:39:15 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 15:39:15 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 15:39:15 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 15:39:15 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 15:39:15 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 15:39:15 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 15:39:15 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 15:39:15 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 15:39:15 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 15:39:15 [db.py:197] The Monster 2016                                                       +
+2019-10-29 15:39:15 [db.py:197] Trolls 2016                                                            +
+2019-10-29 15:39:16 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 15:39:16 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 15:39:16 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 15:39:16 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 15:41:24 [fetch_movies.py:94] Using just URL option.
+2019-10-29 15:41:25 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 15:41:25 [db.py:197] About Ray 2015                                                         -
+2019-10-29 15:41:25 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 15:41:25 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 15:41:25 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 15:41:25 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 15:41:25 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 15:41:25 [db.py:197] Gernika 2016                                                           +
+2019-10-29 15:41:25 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 15:41:25 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 15:41:25 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 15:41:25 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 15:41:25 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 15:41:25 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 15:41:25 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 15:41:25 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 15:41:25 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 15:41:25 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 15:41:25 [db.py:197] The Monster 2016                                                       +
+2019-10-29 15:41:25 [db.py:197] Trolls 2016                                                            +
+2019-10-29 15:41:26 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 15:41:26 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 15:41:26 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 15:41:26 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 15:45:03 [fetch_movies.py:94] Using just URL option.
+2019-10-29 15:45:05 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 15:45:05 [db.py:197] About Ray 2015                                                         -
+2019-10-29 15:45:05 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 15:45:05 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 15:45:05 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 15:45:05 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 15:45:05 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 15:45:05 [db.py:197] Gernika 2016                                                           +
+2019-10-29 15:45:05 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 15:45:05 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 15:45:05 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 15:45:05 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 15:45:05 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 15:45:05 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 15:45:05 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 15:45:05 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 15:45:05 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 15:45:05 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 15:45:05 [db.py:197] The Monster 2016                                                       +
+2019-10-29 15:45:05 [db.py:197] Trolls 2016                                                            +
+2019-10-29 15:45:06 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 15:45:06 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 15:45:06 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 15:45:06 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 15:45:16 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 15:45:16 [api.py:416] Info scraped for id 420818: The Lion King
+2019-10-29 16:19:21 [fetch_movies.py:94] Using just URL option.
+2019-10-29 16:19:25 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 16:19:25 [db.py:197] About Ray 2015                                                         -
+2019-10-29 16:19:25 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 16:19:25 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 16:19:25 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 16:19:25 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 16:19:25 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 16:19:25 [db.py:197] Gernika 2016                                                           +
+2019-10-29 16:19:25 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 16:19:25 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 16:19:25 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 16:19:25 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 16:19:25 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 16:19:25 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 16:19:25 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 16:19:25 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 16:19:25 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 16:19:25 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 16:19:25 [db.py:197] The Monster 2016                                                       +
+2019-10-29 16:19:25 [db.py:197] Trolls 2016                                                            +
+2019-10-29 16:19:26 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 16:19:26 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 16:19:26 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 16:19:26 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 16:22:35 [fetch_movies.py:94] Using just URL option.
+2019-10-29 16:22:37 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 16:22:37 [db.py:197] About Ray 2015                                                         -
+2019-10-29 16:22:37 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 16:22:37 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 16:22:37 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 16:22:37 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 16:22:37 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 16:22:37 [db.py:197] Gernika 2016                                                           +
+2019-10-29 16:22:37 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 16:22:37 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 16:22:37 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 16:22:37 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 16:22:37 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 16:22:37 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 16:22:37 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 16:22:37 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 16:22:37 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 16:22:37 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 16:22:37 [db.py:197] The Monster 2016                                                       +
+2019-10-29 16:22:37 [db.py:197] Trolls 2016                                                            +
+2019-10-29 16:22:38 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 16:22:38 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 16:22:38 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 16:22:38 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 16:24:37 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 16:25:49 [fetch_movies.py:94] Using just URL option.
+2019-10-29 16:25:51 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 16:25:51 [db.py:197] About Ray 2015                                                         -
+2019-10-29 16:25:51 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 16:25:51 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 16:25:51 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 16:25:51 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 16:25:51 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 16:25:51 [db.py:197] Gernika 2016                                                           +
+2019-10-29 16:25:51 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 16:25:51 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 16:25:51 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 16:25:51 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 16:25:51 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 16:25:51 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 16:25:51 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 16:25:51 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 16:25:51 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 16:25:51 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 16:25:51 [db.py:197] The Monster 2016                                                       +
+2019-10-29 16:25:51 [db.py:197] Trolls 2016                                                            +
+2019-10-29 16:25:52 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 16:25:52 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 16:25:52 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 16:25:52 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 16:28:09 [fetch_movies.py:94] Using just URL option.
+2019-10-29 16:28:49 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 16:28:49 [db.py:197] About Ray 2015                                                         -
+2019-10-29 16:28:49 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 16:28:49 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 16:28:49 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 16:28:49 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 16:28:49 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 16:28:49 [db.py:197] Gernika 2016                                                           +
+2019-10-29 16:28:49 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 16:28:49 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 16:28:49 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 16:28:49 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 16:28:49 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 16:28:49 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 16:28:49 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 16:28:49 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 16:28:49 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 16:28:49 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 16:28:49 [db.py:197] The Monster 2016                                                       +
+2019-10-29 16:28:49 [db.py:197] Trolls 2016                                                            +
+2019-10-29 16:28:50 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 16:28:50 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 16:28:50 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 16:28:50 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 16:29:47 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 16:31:26 [api.py:416] Info scraped for id 420818: The Lion King
+2019-10-29 16:41:41 [fetch_movies.py:94] Using just URL option.
+2019-10-29 16:41:44 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 16:41:44 [db.py:197] About Ray 2015                                                         -
+2019-10-29 16:41:44 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 16:41:44 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 16:41:44 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 16:41:44 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 16:41:44 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 16:41:44 [db.py:197] Gernika 2016                                                           +
+2019-10-29 16:41:44 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 16:41:44 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 16:41:44 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 16:41:44 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 16:41:44 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 16:41:44 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 16:41:44 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 16:41:44 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 16:41:44 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 16:41:44 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 16:41:44 [db.py:197] The Monster 2016                                                       +
+2019-10-29 16:41:44 [db.py:197] Trolls 2016                                                            +
+2019-10-29 16:41:45 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 16:41:45 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 16:41:45 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 16:41:45 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 16:43:12 [api.py:416] Info scraped for id 420818: The Lion King
+2019-10-29 16:43:14 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 16:44:43 [fetch_movies.py:94] Using just URL option.
+2019-10-29 16:44:45 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 16:44:45 [db.py:197] About Ray 2015                                                         -
+2019-10-29 16:44:45 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 16:44:45 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 16:44:45 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 16:44:45 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 16:44:45 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 16:44:45 [db.py:197] Gernika 2016                                                           +
+2019-10-29 16:44:45 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 16:44:45 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 16:44:45 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 16:44:45 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 16:44:45 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 16:44:45 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 16:44:45 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 16:44:45 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 16:44:45 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 16:44:45 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 16:44:45 [db.py:197] The Monster 2016                                                       +
+2019-10-29 16:44:45 [db.py:197] Trolls 2016                                                            +
+2019-10-29 16:44:46 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 16:44:46 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 16:44:46 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 16:44:46 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 16:44:51 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 16:44:51 [api.py:416] Info scraped for id 420818: The Lion King
+2019-10-29 16:50:21 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 16:52:00 [fetch_movies.py:94] Using just URL option.
+2019-10-29 16:52:43 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 16:52:43 [db.py:197] About Ray 2015                                                         -
+2019-10-29 16:52:43 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 16:52:43 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 16:52:43 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 16:52:43 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 16:52:43 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 16:52:43 [db.py:197] Gernika 2016                                                           +
+2019-10-29 16:52:43 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 16:52:43 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 16:52:43 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 16:52:43 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 16:52:43 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 16:52:43 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 16:52:43 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 16:52:43 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 16:52:43 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 16:52:43 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 16:52:43 [db.py:197] The Monster 2016                                                       +
+2019-10-29 16:52:43 [db.py:197] Trolls 2016                                                            +
+2019-10-29 16:52:44 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 16:52:44 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 16:52:44 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 16:52:44 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 16:52:53 [api.py:417] Info scraped for id 420818: The Lion King
+2019-10-29 16:52:58 [api.py:417] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 16:54:04 [fetch_movies.py:94] Using just URL option.
+2019-10-29 16:55:15 [fetch_movies.py:94] Using just URL option.
+2019-10-29 16:58:06 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 16:58:06 [db.py:197] About Ray 2015                                                         -
+2019-10-29 16:58:06 [db.py:197] Almost Christmas 2016                                                  -
+2019-10-29 16:58:06 [db.py:197] Billionaire Ransom 2016                                                -
+2019-10-29 16:58:06 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 16:58:06 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 16:58:06 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 16:58:06 [db.py:197] Gernika 2016                                                           +
+2019-10-29 16:58:06 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 16:58:06 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 16:58:06 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 16:58:06 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 16:58:06 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 16:58:06 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 16:58:06 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 16:58:06 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 16:58:06 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 16:58:06 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 16:58:06 [db.py:197] The Monster 2016                                                       +
+2019-10-29 16:58:06 [db.py:197] Trolls 2016                                                            +
+2019-10-29 16:58:07 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 16:58:07 [api.py:355] Info scraped:Almost Christmas 2016
+2019-10-29 16:58:07 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 16:58:07 [api.py:355] Info scraped:Billionaire Ransom 2016
+2019-10-29 16:58:47 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 16:58:47 [api.py:416] Info scraped for id 420818: The Lion King
+2019-10-29 17:02:14 [wp.py:101] Downloading image for 3 Generations...
+2019-10-29 17:02:14 [wp.py:101] Downloading image for Almost Christmas...
+2019-10-29 17:02:15 [wp.py:101] Downloading image for Take Down...
+2019-10-29 17:02:15 [wp.py:101] Downloading image for The Lion King...
+2019-10-29 17:02:16 [wp.py:101] Downloading image for Fast & Furious Presents: Hobbs & Shaw...
+2019-10-29 17:02:46 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Almost Christmas (1).jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-29 17:02:46 [wp.py:427] Publishing to https://tamil.imgblue.com/xmlrpc.php: Almost Christmas ...
+2019-10-29 17:02:51 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\3 Generations (1).jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-29 17:02:51 [wp.py:427] Publishing to https://tamil.imgblue.com/xmlrpc.php: 3 Generations ...
+2019-10-29 17:02:53 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Almost Christmas (1).jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-29 17:02:53 [wp.py:427] Publishing to https://rockers.imgblue.com/xmlrpc.php: Almost Christmas ...
+2019-10-29 17:02:56 [wp.py:435] Published to https://tamil.imgblue.com/xmlrpc.php: Almost Christmas
+2019-10-29 17:02:57 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Take Down (1).jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-29 17:02:57 [wp.py:427] Publishing to https://tamil.imgblue.com/xmlrpc.php: Take Down ...
+2019-10-29 17:02:57 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\3 Generations (1).jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-29 17:02:57 [wp.py:427] Publishing to https://rockers.imgblue.com/xmlrpc.php: 3 Generations ...
+2019-10-29 17:02:57 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Take Down (1).jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-29 17:02:57 [wp.py:427] Publishing to https://rockers.imgblue.com/xmlrpc.php: Take Down ...
+2019-10-29 17:03:00 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\The Lion King.jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-29 17:03:00 [wp.py:427] Publishing to https://rockers.imgblue.com/xmlrpc.php: The Lion King ...
+2019-10-29 17:03:00 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\The Lion King.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-29 17:03:00 [wp.py:427] Publishing to https://tamil.imgblue.com/xmlrpc.php: The Lion King ...
+2019-10-29 17:03:01 [wp.py:435] Published to https://tamil.imgblue.com/xmlrpc.php: 3 Generations
+2019-10-29 17:03:03 [wp.py:435] Published to https://rockers.imgblue.com/xmlrpc.php: Almost Christmas
+2019-10-29 17:03:07 [wp.py:435] Published to https://tamil.imgblue.com/xmlrpc.php: Take Down
+2019-10-29 17:03:07 [wp.py:435] Published to https://rockers.imgblue.com/xmlrpc.php: 3 Generations
+2019-10-29 17:03:08 [wp.py:435] Published to https://rockers.imgblue.com/xmlrpc.php: Take Down
+2019-10-29 17:03:09 [wp.py:435] Published to https://rockers.imgblue.com/xmlrpc.php: The Lion King
+2019-10-29 17:03:10 [wp.py:435] Published to https://tamil.imgblue.com/xmlrpc.php: The Lion King
+2019-10-29 17:03:11 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Fast & Furious Presents  Hobbs & Shaw.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-10-29 17:03:11 [wp.py:427] Publishing to https://tamil.imgblue.com/xmlrpc.php: Fast & Furious Presents: Hobbs & Shaw ...
+2019-10-29 17:03:12 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Fast & Furious Presents  Hobbs & Shaw.jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-10-29 17:03:12 [wp.py:427] Publishing to https://rockers.imgblue.com/xmlrpc.php: Fast & Furious Presents: Hobbs & Shaw ...
+2019-10-29 17:03:23 [wp.py:435] Published to https://tamil.imgblue.com/xmlrpc.php: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 17:03:25 [wp.py:435] Published to https://rockers.imgblue.com/xmlrpc.php: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 17:05:36 [db.py:108] [Errno 13] Permission denied: 'movies.csv'
+2019-10-29 17:05:36 [db.py:109] I/O error(13): Permission denied
+2019-10-29 17:05:53 [db.py:105] Uploaded episodes successfully saved to movies.csv
+2019-10-29 17:12:56 [fetch_movies.py:94] Using just URL option.
+2019-10-29 17:36:13 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 17:36:13 [db.py:197] About Ray 2015                                                         -
+2019-10-29 17:36:13 [db.py:197] Almost Christmas 2016                                                  +
+2019-10-29 17:36:13 [db.py:197] Billionaire Ransom 2016                                                +
+2019-10-29 17:36:13 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 17:36:13 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 17:36:13 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 17:36:13 [db.py:197] Gernika 2016                                                           +
+2019-10-29 17:36:13 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 17:36:13 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 17:36:13 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 17:36:13 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 17:36:13 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 17:36:13 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 17:36:13 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 17:36:13 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 17:36:13 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 17:36:13 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 17:36:13 [db.py:197] The Monster 2016                                                       +
+2019-10-29 17:36:13 [db.py:197] Trolls 2016                                                            +
+2019-10-29 17:36:14 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 17:36:14 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 17:36:19 [api.py:416] Info scraped for id 420818: The Lion King
+2019-10-29 17:36:19 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 17:48:04 [fetch_movies.py:94] Using just URL option.
+2019-10-29 17:48:17 [fetch_movies.py:94] Using just URL option.
+2019-10-29 17:48:20 [db.py:195] Episode                                                                Already on all wp sites
+2019-10-29 17:48:20 [db.py:197] About Ray 2015                                                         -
+2019-10-29 17:48:20 [db.py:197] Almost Christmas 2016                                                  +
+2019-10-29 17:48:20 [db.py:197] Billionaire Ransom 2016                                                +
+2019-10-29 17:48:20 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-10-29 17:48:20 [db.py:197] Closet Monster 2015                                                    -
+2019-10-29 17:48:20 [db.py:197] Come And Find Me 2016                                                  +
+2019-10-29 17:48:20 [db.py:197] Gernika 2016                                                           +
+2019-10-29 17:48:20 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-10-29 17:48:20 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-10-29 17:48:20 [db.py:197] Justice League Dark 2017                                               +
+2019-10-29 17:48:20 [db.py:197] Los Jefes 2015                                                         +
+2019-10-29 17:48:20 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-10-29 17:48:20 [db.py:197] Masterminds 2016                                                       +
+2019-10-29 17:48:20 [db.py:197] Operation Avalanche 2016                                               +
+2019-10-29 17:48:20 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-10-29 17:48:20 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-10-29 17:48:20 [db.py:197] The Hollow Point 2016                                                  +
+2019-10-29 17:48:20 [db.py:197] The Monster 2016                                                       +
+2019-10-29 17:48:20 [db.py:197] Trolls 2016                                                            +
+2019-10-29 17:48:20 [api.py:355] Info scraped:Closet Monster 2015
+2019-10-29 17:48:20 [api.py:355] Info scraped:About Ray 2015
+2019-10-29 17:48:21 [fetch_movies.py:120] Using -ids option
+2019-10-29 17:48:22 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-10-29 17:48:22 [api.py:416] Info scraped for id 420818: The Lion King
+2019-11-01 11:30:13 [fetch_movies.py:94] Using just URL option.
+2019-11-01 11:31:06 [fetch_movies.py:94] Using just URL option.
+2019-11-01 11:32:27 [fetch_movies.py:94] Using just URL option.
+2019-11-01 11:32:49 [db.py:195] Episode                                                                Already on all wp sites
+2019-11-01 11:32:49 [db.py:197] About Ray 2015                                                         -
+2019-11-01 11:32:49 [db.py:197] Almost Christmas 2016                                                  +
+2019-11-01 11:32:49 [db.py:197] Billionaire Ransom 2016                                                +
+2019-11-01 11:32:49 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-11-01 11:32:49 [db.py:197] Closet Monster 2015                                                    -
+2019-11-01 11:32:49 [db.py:197] Come And Find Me 2016                                                  +
+2019-11-01 11:32:49 [db.py:197] Gernika 2016                                                           +
+2019-11-01 11:32:49 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-11-01 11:32:49 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-11-01 11:32:49 [db.py:197] Justice League Dark 2017                                               +
+2019-11-01 11:32:49 [db.py:197] Los Jefes 2015                                                         +
+2019-11-01 11:32:49 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-11-01 11:32:49 [db.py:197] Masterminds 2016                                                       +
+2019-11-01 11:32:49 [db.py:197] Operation Avalanche 2016                                               +
+2019-11-01 11:32:49 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-11-01 11:32:49 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-11-01 11:32:49 [db.py:197] The Hollow Point 2016                                                  +
+2019-11-01 11:32:49 [db.py:197] The Monster 2016                                                       +
+2019-11-01 11:32:49 [db.py:197] Trolls 2016                                                            +
+2019-11-01 11:32:49 [api.py:355] Info scraped:About Ray 2015
+2019-11-01 11:32:49 [api.py:355] Info scraped:Closet Monster 2015
+2019-11-01 11:32:50 [fetch_movies.py:120] Using -ids option
+2019-11-01 11:32:51 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-11-01 11:32:51 [api.py:416] Info scraped for id 420818: The Lion King
+2019-11-01 11:39:44 [fetch_movies.py:94] Using just URL option.
+2019-11-01 11:39:50 [db.py:195] Episode                                                                Already on all wp sites
+2019-11-01 11:39:50 [db.py:197] About Ray 2015                                                         -
+2019-11-01 11:39:50 [db.py:197] Almost Christmas 2016                                                  +
+2019-11-01 11:39:50 [db.py:197] Billionaire Ransom 2016                                                +
+2019-11-01 11:39:50 [db.py:197] Boo! A Madea Halloween 2016                                            +
+2019-11-01 11:39:50 [db.py:197] Closet Monster 2015                                                    -
+2019-11-01 11:39:50 [db.py:197] Come And Find Me 2016                                                  +
+2019-11-01 11:39:50 [db.py:197] Gernika 2016                                                           +
+2019-11-01 11:39:50 [db.py:197] Howard Lovecraft & The Frozen Kingdom 2016                             +
+2019-11-01 11:39:50 [db.py:197] Jack Reacher Never Go Back 2016                                        +
+2019-11-01 11:39:50 [db.py:197] Justice League Dark 2017                                               +
+2019-11-01 11:39:50 [db.py:197] Los Jefes 2015                                                         +
+2019-11-01 11:39:50 [db.py:197] Maigret's Dead Man 2016                                                +
+2019-11-01 11:39:50 [db.py:197] Masterminds 2016                                                       +
+2019-11-01 11:39:50 [db.py:197] Operation Avalanche 2016                                               +
+2019-11-01 11:39:50 [db.py:197] Queen Of Katwe 2016                                                    +
+2019-11-01 11:39:50 [db.py:197] The Girl With All The Gifts 2016                                       +
+2019-11-01 11:39:50 [db.py:197] The Hollow Point 2016                                                  +
+2019-11-01 11:39:50 [db.py:197] The Monster 2016                                                       -
+2019-11-01 11:39:50 [db.py:197] Trolls 2016                                                            +
+2019-11-01 11:39:51 [api.py:355] Info scraped:About Ray 2015
+2019-11-01 11:39:51 [api.py:355] Info scraped:The Monster 2016
+2019-11-01 11:39:51 [api.py:355] Info scraped:Closet Monster 2015
+2019-11-01 11:39:51 [fetch_movies.py:120] Using -ids option
+2019-11-01 11:39:52 [api.py:416] Info scraped for id 384018: Fast & Furious Presents: Hobbs & Shaw
+2019-11-01 11:39:52 [api.py:416] Info scraped for id 420818: The Lion King
+2019-11-01 11:43:04 [wp.py:102] Downloading image for The Monster...
+2019-11-01 11:43:05 [wp.py:102] Downloading image for The Lion King...
+2019-11-01 11:43:05 [wp.py:102] Downloading image for Fast & Furious Presents: Hobbs & Shaw...
+2019-11-01 11:43:16 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\The Monster.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-11-01 11:43:16 [wp.py:427] Publishing to https://tamil.imgblue.com/xmlrpc.php: The Monster ...
+2019-11-01 11:43:17 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\Fast & Furious Presents  Hobbs & Shaw.jpg uploaded to https://tamil.imgblue.com/xmlrpc.php.
+2019-11-01 11:43:17 [wp.py:427] Publishing to https://tamil.imgblue.com/xmlrpc.php: Fast & Furious Presents: Hobbs & Shaw ...
+2019-11-01 11:43:18 [wp.py:410] Image C:\Users\Evgeny\Documents\TMDb\TMDb\tmp\The Lion King.jpg uploaded to https://rockers.imgblue.com/xmlrpc.php.
+2019-11-01 11:43:18 [wp.py:427] Publishing to https://rockers.imgblue.com/xmlrpc.php: The Lion King ...
+2019-11-01 11:43:19 [wp.py:435] Published to https://tamil.imgblue.com/xmlrpc.php: The Monster
+2019-11-01 11:43:21 [wp.py:435] Published to https://tamil.imgblue.com/xmlrpc.php: Fast & Furious Presents: Hobbs & Shaw
+2019-11-01 11:43:21 [wp.py:435] Published to https://rockers.imgblue.com/xmlrpc.php: The Lion King
+2019-11-01 11:47:44 [db.py:105] Uploaded episodes successfully saved to movies.csv
+2019-11-01 11:49:03 [db.py:108] [Errno 13] Permission denied: 'movies.csv'
+2019-11-01 11:49:03 [db.py:109] I/O error(13): Permission denied
+2019-11-01 11:49:15 [db.py:108] [Errno 13] Permission denied: 'movies.csv'
+2019-11-01 11:49:15 [db.py:109] I/O error(13): Permission denied
+2019-11-01 11:49:31 [db.py:105] Uploaded episodes successfully saved to movies.csv

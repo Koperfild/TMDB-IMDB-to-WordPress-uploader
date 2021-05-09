@@ -1,0 +1,130 @@
+[{
+		"url": "https://www.123tamilrockers.com/",
+		"user": "tamilrockerscom",
+		"password": "65eygdf98yuiokhj",
+		"tags": [
+			"tamilrocker",
+			"tamilrockers",
+			"tamilrockers 300mb",
+			"tamilrockers 300mb movies",
+			"tamilrockers 4k movies",
+			"tamilrockers films",
+			"tamilrockers full hd movies",
+			"tamilrockers hd",
+			"tamilrockers hd movies",
+			"tamilrockers movie download",
+			"tamilrockers movies",
+			"tamilrockers sd movies"
+		]
+	},
+	{
+		"url": "https://www.bmoviespro.com/",
+		"user": "bmoviespro",
+		"password": "Tamr5634wtsfd253wtesfgd0vies",
+		"tags": [
+			"bmovies",
+			"bmovies 300mb",
+			"bmovies 300mb movies",
+			"bmovies 4k movies",
+			"bmovies films",
+			"bmovies full hd movies",
+			"bmovies hd",
+			"bmovies hd movies",
+			"bmovies movie download",
+			"bmovies movies",
+			"bmovies sd movies"
+		]
+	},
+	{
+		"url": "https://www.tamilrocker.club/",
+		"user": "tamilrockerclub",
+		"password": "34w5efsd65uyerth12qwasdfDnvLYig",
+		"tags": [
+			"tamilrocker",
+			"tamilrockers",
+			"tamilrockers 300mb",
+			"tamilrockers 300mb movies",
+			"tamilrockers 4k movies",
+			"tamilrockers films",
+			"tamilrockers full hd movies",
+			"tamilrockers hd",
+			"tamilrockers hd movies",
+			"tamilrockers movie download",
+			"tamilrockers movies",
+			"tamilrockers sd movies"
+		]
+	},
+	{
+		"url": "https://www.tamilrocker.vip/",
+		"user": "tamilrockervip",
+		"password": "N345wrefsd654tgdf56yrgdfZ3CuhBp",
+		"tags": [
+			"tamilrocker",
+			"tamilrockers",
+			"tamilrockers 300mb",
+			"tamilrockers 300mb movies",
+			"tamilrockers 4k movies",
+			"tamilrockers films",
+			"tamilrockers full hd movies",
+			"tamilrockers hd",
+			"tamilrockers hd movies",
+			"tamilrockers movie download",
+			"tamilrockers movies",
+			"tamilrockers sd movies"
+		]
+	},
+	{
+		"url": "https://www.thetamilyogi.com/",
+		"user": "thetamilyogi",
+		"password": "34wrfsd53wrfsd",
+		"tags": [
+			"tamilyogi",
+			"tamilyogi 300mb",
+			"tamilyogi 300mb movies",
+			"tamilyogi 4k movies",
+			"tamilyogi films",
+			"tamilyogi full hd movies",
+			"tamilyogi hd",
+			"tamilyogi hd movies",
+			"tamilyogi movie download",
+			"tamilyogi movies",
+			"tamilyogi sd movies"
+		]
+	},
+	{
+		"url": "https://www.laminelezghad.fr/",
+		"user": "laminelezghad",
+		"password": "d234wrfdsc534rwfsd6VA1q1W5D8aFykOy5uoEs",
+		"tags": [
+			"Voirfilms",
+			"Voirfilms 300mb",
+			"Voirfilms 300mb films",
+			"Voirfilms 4k films",
+			"Voirfilms films",
+			"Voirfilms full hd films",
+			"Voirfilms hd",
+			"Voirfilms hd films",
+			"Voirfilms film télécharger",
+			"Voirfilms films",
+			"Voirfilms sd films"
+		]
+	},
+	{
+		"url": "https://www.assistirfilmesgratisonline.com/",
+		"user": "assistirfilmes",
+		"password": "Lb21sdf345dfg45toGf1hKTblxGegRMGkwKpa",
+		"tags": [
+			"mega filmes hd",
+			"mega filmes hd 300mb",
+			"mega filmes hd 300mb filmes",
+			"mega filmes 4k hd filmes",
+			"mega filmes hd filmes",
+			"mega filmes hd completo hd filmes",
+			"mega filmes sd ",
+			"mega filmes sd filmes",
+			"mega filmes hd filme baixar",
+			"mega filmes ultra hd filmes"
+		]
+	}
+
+]

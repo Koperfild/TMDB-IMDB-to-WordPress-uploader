@@ -1,0 +1,38 @@
+[{
+		"url": "https://rockers.imgblue.com/",
+		"user": "newcoder101",
+		"password": "d0I5E1pTk5SwDYBcvdjkNhkZuE5Wb",
+		"tags": [
+			"bmovies",
+			"bmovies 300mb",
+			"bmovies 300mb movies",
+			"bmovies 4k movies",
+			"bmovies films",
+			"bmovies full hd movies",
+			"bmovies hd",
+			"bmovies hd movies",
+			"bmovies movie download",
+			"bmovies movies",
+			"bmovies sd movies"
+		]
+	},
+	{
+		"url": "https://tamil.imgblue.com/",
+		"user": "newcoder101",
+		"password": "d0I5E1pTk5SwDYBcvdjkNhkZuE5Wb",
+		"tags": [
+			"bmovies",
+			"bmovies 300mb",
+			"bmovies 300mb movies",
+			"bmovies 4k movies",
+			"bmovies films",
+			"bmovies full hd movies",
+			"bmovies hd",
+			"bmovies hd movies",
+			"bmovies movie download",
+			"bmovies movies",
+			"bmovies sd movies"
+		]
+	}
+
+]
